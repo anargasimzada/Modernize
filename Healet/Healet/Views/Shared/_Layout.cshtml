@@ -1,0 +1,100 @@
+﻿@using Healet.Models
+<!DOCTYPE html>
+<html>
+
+<head>
+	<!-- Basic -->
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<!-- Mobile Metas -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+	<!-- Site Metas -->
+	<link rel="icon" href="~/assets/images/favicon.png" type="image/gif" />
+	<meta name="keywords" content="" />
+	<meta name="description" content="" />
+	<meta name="author" content="" />
+
+	<title>Healet</title>
+
+	<!-- bootstrap core css -->
+	<link rel="stylesheet" type="text/css" href="~/assets/css/bootstrap.css" />
+	<!-- font awesome style -->
+	<link href="~/assets/css/font-awesome.min.css" rel="stylesheet" />
+	<!-- Custom styles for this template -->
+	<link href="~/assets/css/style.css" rel="stylesheet" />
+	<!-- responsive style -->
+	<link href="~/assets/css/responsive.css" rel="stylesheet" />
+
+</head>
+
+<body>
+
+	<!-- header section strats -->
+	<header class="header_section">
+		<div class="container-fluid">
+			<nav class="navbar navbar-expand-lg custom_nav-container">
+				<a class="navbar-brand" href="index.html">
+					<span>
+						Healet
+					</span>
+					@if (User.Identity.IsAuthenticated)
+					{
+						<li class="scroll-to-section">
+							<a style="color:aliceblue">@User.Identity.Name </a>
+						</li>
+						<li class="scroll-to-section"><a asp-action="Logout" asp-controller="Account">Logout</a></li>
+					}
+					else
+					{
+						<li class="scroll-to-section"><a asp-action="Register" asp-controller="Account">Register</a></li>
+						<li class="scroll-to-section"><a asp-action="Login" asp-controller="Account">Login</a></li>
+					}
+
+				</a>
+				
+				<div class="" id="">
+
+					<div class="custom_menu-btn">
+						<button onclick="openNav()">
+							<span class="s-1"> </span>
+							<span class="s-2"> </span>
+							<span class="s-3"> </span>
+						</button>
+						<div id="myNav" class="overlay">
+							<div class="overlay-content">
+								<a href="index.html">Home</a>
+								<a href="about.html">About</a>
+								<a href="shop.html">Shop</a>
+								<a href="blog.html">Blog</a>
+							</div>
+						</div>
+					</div>
+
+				</div>
+			</nav>
+		</div>
+	</header>
+	<!-- end header section -->
+	@RenderBody()
+
+
+	<!-- footer section -->
+	<footer class="footer_section">
+		<div class="container">
+			<p>
+				&copy; <span id="displayYear"></span> All Rights Reserved By
+				<a href="https://html.design/">Free Html Templates</a>
+			</p>
+		</div>
+	</footer>
+	<!-- footer section -->
+	<!-- jQery -->
+	<script src="~/assets/js/jquery-3.4.1.min.js"></script>
+	<!-- bootstrap js -->
+	<script src="~/assets/js/bootstrap.js"></script>
+	<!-- custom js -->
+	<script src="~/assets/js/custom.js"></script>
+
+</body>
+
+</html>

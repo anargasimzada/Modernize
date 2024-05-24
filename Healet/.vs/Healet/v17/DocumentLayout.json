@@ -1,0 +1,365 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{801A13C9-72EE-4547-AE80-5585D53AFBFB}|Healet\\Healet.csproj|c:\\users\\heydar\\desktop\\new folder\\healet\\healet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{801A13C9-72EE-4547-AE80-5585D53AFBFB}|Healet\\Healet.csproj|solutionrelative:healet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801A13C9-72EE-4547-AE80-5585D53AFBFB}|Healet\\Healet.csproj|C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\healet\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801A13C9-72EE-4547-AE80-5585D53AFBFB}|Healet\\Healet.csproj|solutionrelative:healet\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801A13C9-72EE-4547-AE80-5585D53AFBFB}|Healet\\Healet.csproj|C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\healet\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{801A13C9-72EE-4547-AE80-5585D53AFBFB}|Healet\\Healet.csproj|solutionrelative:healet\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801A13C9-72EE-4547-AE80-5585D53AFBFB}|Healet\\Healet.csproj|C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\healet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801A13C9-72EE-4547-AE80-5585D53AFBFB}|Healet\\Healet.csproj|solutionrelative:healet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801A13C9-72EE-4547-AE80-5585D53AFBFB}|Healet\\Healet.csproj|C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\healet\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801A13C9-72EE-4547-AE80-5585D53AFBFB}|Healet\\Healet.csproj|solutionrelative:healet\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801A13C9-72EE-4547-AE80-5585D53AFBFB}|Healet\\Healet.csproj|C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\healet\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801A13C9-72EE-4547-AE80-5585D53AFBFB}|Healet\\Healet.csproj|solutionrelative:healet\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801A13C9-72EE-4547-AE80-5585D53AFBFB}|Healet\\Healet.csproj|C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\healet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801A13C9-72EE-4547-AE80-5585D53AFBFB}|Healet\\Healet.csproj|solutionrelative:healet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801A13C9-72EE-4547-AE80-5585D53AFBFB}|Healet\\Healet.csproj|C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\healet\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801A13C9-72EE-4547-AE80-5585D53AFBFB}|Healet\\Healet.csproj|solutionrelative:healet\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801A13C9-72EE-4547-AE80-5585D53AFBFB}|Healet\\Healet.csproj|C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\healet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{801A13C9-72EE-4547-AE80-5585D53AFBFB}|Healet\\Healet.csproj|solutionrelative:healet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801A13C9-72EE-4547-AE80-5585D53AFBFB}|Healet\\Healet.csproj|C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\healet\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{801A13C9-72EE-4547-AE80-5585D53AFBFB}|Healet\\Healet.csproj|solutionrelative:healet\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801A13C9-72EE-4547-AE80-5585D53AFBFB}|Healet\\Healet.csproj|C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\healet\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801A13C9-72EE-4547-AE80-5585D53AFBFB}|Healet\\Healet.csproj|solutionrelative:healet\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801A13C9-72EE-4547-AE80-5585D53AFBFB}|Healet\\Healet.csproj|C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\healet\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{801A13C9-72EE-4547-AE80-5585D53AFBFB}|Healet\\Healet.csproj|solutionrelative:healet\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801A13C9-72EE-4547-AE80-5585D53AFBFB}|Healet\\Healet.csproj|C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\healet\\dal\\healetcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801A13C9-72EE-4547-AE80-5585D53AFBFB}|Healet\\Healet.csproj|solutionrelative:healet\\dal\\healetcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801A13C9-72EE-4547-AE80-5585D53AFBFB}|Healet\\Healet.csproj|C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\healet\\models\\testimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801A13C9-72EE-4547-AE80-5585D53AFBFB}|Healet\\Healet.csproj|solutionrelative:healet\\models\\testimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801A13C9-72EE-4547-AE80-5585D53AFBFB}|Healet\\Healet.csproj|C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\healet\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{801A13C9-72EE-4547-AE80-5585D53AFBFB}|Healet\\Healet.csproj|solutionrelative:healet\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801A13C9-72EE-4547-AE80-5585D53AFBFB}|Healet\\Healet.csproj|C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\healet\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{801A13C9-72EE-4547-AE80-5585D53AFBFB}|Healet\\Healet.csproj|solutionrelative:healet\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801A13C9-72EE-4547-AE80-5585D53AFBFB}|Healet\\Healet.csproj|C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\healet\\areas\\admin\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{801A13C9-72EE-4547-AE80-5585D53AFBFB}|Healet\\Healet.csproj|solutionrelative:healet\\areas\\admin\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801A13C9-72EE-4547-AE80-5585D53AFBFB}|Healet\\Healet.csproj|C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\healet\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{801A13C9-72EE-4547-AE80-5585D53AFBFB}|Healet\\Healet.csproj|solutionrelative:healet\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801A13C9-72EE-4547-AE80-5585D53AFBFB}|Healet\\Healet.csproj|C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\healet\\areas\\admin\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{801A13C9-72EE-4547-AE80-5585D53AFBFB}|Healet\\Healet.csproj|solutionrelative:healet\\areas\\admin\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801A13C9-72EE-4547-AE80-5585D53AFBFB}|Healet\\Healet.csproj|C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\healet\\viewmodels\\creattestvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801A13C9-72EE-4547-AE80-5585D53AFBFB}|Healet\\Healet.csproj|solutionrelative:healet\\viewmodels\\creattestvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{801A13C9-72EE-4547-AE80-5585D53AFBFB}|Healet\\Healet.csproj|C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\healet\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{801A13C9-72EE-4547-AE80-5585D53AFBFB}|Healet\\Healet.csproj|solutionrelative:healet\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\Healet\\Program.cs",
+              "RelativeDocumentMoniker": "Healet\\Program.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\Healet\\Program.cs",
+              "RelativeToolTip": "Healet\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:39:42.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\Healet\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeDocumentMoniker": "Healet\\ViewModels\\Account\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\Healet\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeToolTip": "Healet\\ViewModels\\Account\\LoginVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:05:04.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\Healet\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Healet\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\Healet\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Healet\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:20:33.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\Healet\\Areas\\admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Healet\\Areas\\admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\Healet\\Areas\\admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Healet\\Areas\\admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAIwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:03:23.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\Healet\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Healet\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\Healet\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Healet\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAYwFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:54:26.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\Healet\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Healet\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\Healet\\Models\\AppUser.cs",
+              "RelativeToolTip": "Healet\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:27:40.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\Healet\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Healet\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\Healet\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Healet\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T18:02:13.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\Healet\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Healet\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\Healet\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Healet\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAACsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T19:36:40.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\Healet\\appsettings.json",
+              "RelativeDocumentMoniker": "Healet\\appsettings.json",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\Healet\\appsettings.json",
+              "RelativeToolTip": "Healet\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-22T19:42:19.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\Healet\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "Healet\\ViewModels\\Account\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\Healet\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeToolTip": "Healet\\ViewModels\\Account\\RegisterVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:04:53.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\Healet\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Healet\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\Healet\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Healet\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAIwBAAAAAAAAAAAYwK0BAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T13:36:29.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\Healet\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Healet\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\Healet\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Healet\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T19:20:10.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HealetContext.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\Healet\\DAL\\HealetContext.cs",
+              "RelativeDocumentMoniker": "Healet\\DAL\\HealetContext.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\Healet\\DAL\\HealetContext.cs",
+              "RelativeToolTip": "Healet\\DAL\\HealetContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAD4vwYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:06:52.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Testimonial.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\Healet\\Models\\Testimonial.cs",
+              "RelativeDocumentMoniker": "Healet\\Models\\Testimonial.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\Healet\\Models\\Testimonial.cs",
+              "RelativeToolTip": "Healet\\Models\\Testimonial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:10:54.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\Healet\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Healet\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\Healet\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Healet\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T18:11:41.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\Healet\\Areas\\admin\\Views\\Home\\Update.cshtml",
+              "RelativeDocumentMoniker": "Healet\\Areas\\admin\\Views\\Home\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\Healet\\Areas\\admin\\Views\\Home\\Update.cshtml",
+              "RelativeToolTip": "Healet\\Areas\\admin\\Views\\Home\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T16:40:23.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\Healet\\Areas\\admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Healet\\Areas\\admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\Healet\\Areas\\admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Healet\\Areas\\admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T16:40:06.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\Healet\\Areas\\admin\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "Healet\\Areas\\admin\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\Healet\\Areas\\admin\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "Healet\\Areas\\admin\\Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T16:22:47.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreatTestVM.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\Healet\\ViewModels\\CreatTestVM.cs",
+              "RelativeDocumentMoniker": "Healet\\ViewModels\\CreatTestVM.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\Healet\\ViewModels\\CreatTestVM.cs",
+              "RelativeToolTip": "Healet\\ViewModels\\CreatTestVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:10:53.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\Healet\\Areas\\admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Healet\\Areas\\admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\Healet\\Areas\\admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Healet\\Areas\\admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T16:00:04.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\Healet\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Healet\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\New folder\\Healet\\Healet\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Healet\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T15:59:42.057Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
